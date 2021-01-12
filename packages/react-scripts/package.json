@@ -1,7 +1,7 @@
 {
   "name": "kstick-react-scripts",
-  "version": "4.0.2",
-  "description": "Configuration and scripts for KStick React App.",
+  "version": "0.1.0",
+  "description": "Configuration and scripts for kstick React App.",
   "repository": {
     "type": "git",
     "url": "https://github.com/kstick9210/create-react-app.git",
